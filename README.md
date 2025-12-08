@@ -3,4 +3,4 @@ Using HTML and CSS, I created a responsive website to display information about 
 ### Link to your deployed website goes below:
 https://csdevwww.cegep-heritage.qc.ca/Students/2575104/a02-mobile-design-Willbegin08
 
-https://github.com/Willbegin08/Website.git
+https://willbegin08.github.io/Website/
