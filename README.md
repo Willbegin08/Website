@@ -1,7 +1,9 @@
-# Web Programming I - Assignment 2
+# Web Programming I - Assignment 3
 
-- [Assignment Instructions](H10A02_MobileDesign.pdf)
-- [Marking Guide](H10_A02_Marking.pdf)
+- [Instructions](H10A03_WebFinalPages.pdf)
+- [Marking Guide](H10_A03_Marking.pdf)
 
-### Link to your deployed website goes below:
-https://csdevwww.cegep-heritage.qc.ca/Students/2575104/a02-mobile-design-Willbegin08
+## The links to the CSDev Server and GitHub Pages goes below this line
+https://csdevwww.cegep-heritage.qc.ca/Students/2575104/WParisien-Begin_H10A03/
+
+https://willbegin08.github.io/Website/
