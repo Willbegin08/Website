@@ -31,6 +31,14 @@ video {
   display: none;
 }
 
+.domain {
+  font-family: var(--anchorFont);
+  color: var(--secondaryDark);
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-top: 0.3em;
+}
+
 .servicesSection a {
   position: absolute;
   bottom: 3%;
@@ -520,6 +528,7 @@ max-width: calc(100% - 2em);
     border-radius: 6px;
     background: var(--mainGreen);
     position: relative;
+    margin: 1em;
   }
 
   .staff-member::before {
